@@ -16,4 +16,4 @@ Things to do to improve the project?
 - GUI (Files with large path are not fully displayed in the program)
 - Perforamnce (progressbar not 100% optimized)
 - Implement a file check to prevent user to add the same file twice when using the folder select option, when this happens the program will crash when try to encrypt a file thas already was previoulsy encripted in the job
-- Implement safety measures to prevent user to lose data when decrypting with the remove original file flagged 
+- Implement safety measures to prevent user to lose data after type the wrong password when decrypting with the remove original file flagged 
