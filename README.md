@@ -1,2 +1,7 @@
 # AESCripto
-This program will encrypt and decrypt data for you using AES256 
+
+AESCripto is a program that will encrypt and decrypt data for you using AES256
+
+## Disclaimer
+
+AESCripto should be used only for **informational purposes** or on **personal usage**. _Do not use this tool to encrypt other people files.
